@@ -25,10 +25,6 @@ tools/README.md                      External GLMY executable requirements
 results/                             Generated output; excluded from Git
 ```
 
-The maintained filenames, code comments and documentation are English.
-`R/function.R` includes the original fitting/ODE helpers and the network
-integration helpers; no second R function file is required.
-
 ## 1. System requirements
 
 ### Tested software
